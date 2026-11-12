@@ -85,3 +85,5 @@ more index.js
 cd ..
 cd ..
 pwd
+cd ../..
+ls --color=auto
