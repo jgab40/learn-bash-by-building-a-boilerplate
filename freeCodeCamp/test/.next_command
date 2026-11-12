@@ -146,3 +146,5 @@ find website
 cd ..
 find website/
 cd website/
+mv lato.ttf fonts/
+mv menlo.otf fonts/
