@@ -80,3 +80,6 @@ ls --color=auto
 cd src
 pwd
 ls --color=auto
+more index.js
+more index.js
+cd ..
