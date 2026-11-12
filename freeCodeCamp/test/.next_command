@@ -152,3 +152,4 @@ cd ..
 cd website/
 find fonts/
 mkdir client
+mkdir client/src
