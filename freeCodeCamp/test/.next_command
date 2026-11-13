@@ -378,3 +378,8 @@ cd client/assets/images/
 cd ..
 find images/
 cd ../../../..
+cd project/
+cd website/
+ls --color=auto
+rmdir images/
+ls --color=auto
