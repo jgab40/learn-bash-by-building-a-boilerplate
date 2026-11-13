@@ -663,3 +663,4 @@ cd ..
 find .
 touch client/assets/fonts/roboto-light.woff
 find client/
+touch client/assets/fonts/lato-bold.ttf
