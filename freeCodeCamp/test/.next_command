@@ -668,3 +668,4 @@ touch client/assets/fonts/lato-light.ttf
 find client/
 rm --help
 rm -r fonts/
+ls --color=auto
