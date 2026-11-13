@@ -693,3 +693,5 @@ ls --color=auto
 find toms-website/
 find website-boilerplate/
 rm -r icons/
+clear
+echo goodbye terminal
