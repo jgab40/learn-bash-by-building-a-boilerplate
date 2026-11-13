@@ -659,3 +659,7 @@ find .
 cd client/assets/fonts/
 touch roboto-bold.woff
 cd ../..
+cd ..
+find .
+touch client/assets/fonts/roboto-light.woff
+find client/
