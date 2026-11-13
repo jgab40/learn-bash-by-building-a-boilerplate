@@ -353,3 +353,4 @@ cd ../..
 cd ..
 cd images/
 ls --color=auto
+mv background.jpg ..
