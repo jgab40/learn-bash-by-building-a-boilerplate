@@ -370,3 +370,4 @@ find -client
 find images
 find client/assets/images/
 mv header.png client/assets/images/
+find header.png
