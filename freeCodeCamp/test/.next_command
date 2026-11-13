@@ -354,3 +354,11 @@ cd ..
 cd images/
 ls --color=auto
 mv background.jpg ..
+ls --color=auto
+cd ..
+ls --color=auto
+cd images/
+ls --color=auto
+mv footer.jpeg ..
+mv header.png ..
+ls --color=auto
