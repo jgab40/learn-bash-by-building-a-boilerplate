@@ -695,3 +695,4 @@ find website-boilerplate/
 rm -r icons/
 clear
 echo goodbye terminal
+exit
