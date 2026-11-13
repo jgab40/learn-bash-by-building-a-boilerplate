@@ -362,3 +362,4 @@ ls --color=auto
 mv footer.jpeg ..
 mv header.png ..
 ls --color=auto
+cd ..
