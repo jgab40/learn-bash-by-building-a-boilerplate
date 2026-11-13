@@ -373,3 +373,4 @@ mv header.png client/assets/images/
 find header.png
 find client/assets/images/
 mv footer.jpeg client/assets/images/
+ls --color=auto
