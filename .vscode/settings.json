@@ -48,7 +48,9 @@
   "npm.fetchOnlinePackageInfo": false,
   "task.slowProviderWarning": false,
   "terminal.integrated.allowChords": false,
-  "terminal.integrated.commandsToSkipShell": ["coderoad.enter"],
+  "terminal.integrated.commandsToSkipShell": [
+    "coderoad.enter"
+  ],
   "terminal.integrated.enableFileLinks": false,
   "terminal.integrated.environmentChangesIndicator": "off",
   "terminal.integrated.macOptionIsMeta": true,
@@ -90,7 +92,7 @@
     }
   },
   "workbench.iconTheme": null,
-  "workbench.statusBar.visible": false,
+  "workbench.statusBar.visible": true,
   "workbench.tips.enabled": false,
   "workbench.tree.renderIndentGuides": "none",
   "zenMode.centerLayout": false
