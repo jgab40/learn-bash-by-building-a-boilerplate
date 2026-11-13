@@ -365,3 +365,8 @@ ls --color=auto
 cd ..
 ls --color=auto
 find images/
+find -images
+find -client
+find images
+find client/assets/images/
+mv header.png client/assets/images/
